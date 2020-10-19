@@ -1,0 +1,43 @@
+h1{
+  font-family: 'Noto Serif', serif;
+  font-size: 3.5em;
+}
+h2,h3{
+  font-family: 'Montserrat', sans-serif;
+}
+p{
+  font-family: fantasy;
+  font-size: 2em;
+}
+body
+{
+  font-family: 'Merriweather', serif;
+  margin: 0;
+  background-color: #f4d9c6;
+  font-family: serif;
+}
+.d1{
+  margin-top:100px;
+  text-align: center;
+position: relative;
+}
+.upercloud{
+  position: relative;
+  left: 100px;
+}
+.lowercloud{
+  position: absolute;
+  top: 200px;
+  left: 450px;
+
+}
+.img{
+  border-radius: 50%;
+
+}
+.profile{
+  text-align: center;
+}
+.naming{
+  margin-left: 70px;
+}
